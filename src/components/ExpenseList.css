@@ -1,0 +1,74 @@
+.list-card {
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  min-height: 320px;
+}
+
+.list-card h3 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #1e3a8a;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 8px;
+}
+
+.no-data {
+  color: #64748b;
+  text-align: center;
+  margin-top: 40px;
+  font-style: italic;
+}
+
+.expense-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  border-bottom: 1px solid #f1f5f9;
+  transition: background-color 0.2s;
+}
+
+.expense-item:hover {
+  background-color: #f8fafc;
+}
+
+.item-details p {
+  margin: 4px 0;
+}
+
+.item-plaza {
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.item-meta {
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+.item-right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.item-amount {
+  font-weight: 700;
+  color: #16a34a;
+}
+
+.btn-delete {
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.btn-delete:hover {
+  background-color: #dc2626;
+}
