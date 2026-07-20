@@ -1,0 +1,41 @@
+.header-container {
+  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+  color: white;
+  padding: 30px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 600px) {
+  .header-container {
+    flex-direction: row;
+  }
+}
+
+.header-title h1 {
+  margin: 0;
+  font-size: 2rem;
+  letter-spacing: -0.05em;
+}
+
+.header-title p {
+  margin: 5px 0 0 0;
+  opacity: 0.85;
+  font-size: 0.95rem;
+}
+
+.badge {
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 5px;
+}
