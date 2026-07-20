@@ -1,0 +1,9 @@
+{
+  "short_name": "TollPass",
+  "name": "Express Toll Pass Expense Manager",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc"
+}
