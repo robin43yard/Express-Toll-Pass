@@ -26,9 +26,9 @@ Express Toll Pass is an enterprise-ready, client-side financial tracking dashboa
 ---
 
 ## Author
-* **Name:** Your A/C Name
-* **Email:** Your a/c email id
-* **Website:** Express Toll Pass
+* **Name:** robin  
+* **Email:** robin43yard@outlook.com
+* **Website:** [Express Toll Pass](https://www.expresstollpass.com)
 
 > ### About the Author
 > A veteran Full-Stack Software Engineer and Solutions Architect with over a decade of hands-on experience designing cloud infrastructure and intuitive user interfaces. Specializing in high-performance JavaScript frameworks, clean coding patterns, and modular software architectures. Driven by a deeply helpful nature, they dedicate significant time to mentoring junior developers, contributing open-source code libraries, and building practical digital utilities that simplify everyday consumer challenges. Master of system efficiency, UI responsive design, and frictionless UX design patterns.
